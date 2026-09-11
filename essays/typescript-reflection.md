@@ -10,13 +10,13 @@ labels:
   - TypeScript
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/typescript-essay/Typescript.svg">
+<img width="300px" class="rounded float-start pe-4" src="../img/typescript-essay/java-image.png">
 
 ## Knowledge Prior to Learning Typescript
 
 Prior to learning Typescript, the only languages I've known was Python, C#, and most importantly, Java. I became the most comfortable with Java throughout my entire coding journey. 
 
-<img width="300px" class="rounded float-start pe-4" src="../img/typescript-essay/java-image.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/typescript-essay/Typescript.svg">
 
 ## First Impressions
 
