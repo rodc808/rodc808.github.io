@@ -16,6 +16,7 @@ labels:
 
 Prior to learning Typescript, the only languages I've known was Python, C#, and most importantly, Java. I became the most comfortable with Java throughout my entire coding journey. It probably has to do with the fact that I've spent more time with Java since it was the first coding language I've learned since I was in middle school. Another factor could be that the logic in Java is more friendly to read rather than Python's strict indentation rules and hard to read syntax structure. 
 
+<br>
 <img width="300px" class="rounded float-start pe-4" src="../img/typescript-essay/Typescript.svg">
 
 ## First Impressions
