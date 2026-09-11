@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Type Script"
+title: "The Wonders Typescript Can Do"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-10
 published: true
@@ -12,13 +12,15 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/typescript-essay/Typescript.svg">
 
-## Is there such thing as a stupid question?
+## Knowledge Prior to Learning Typescript
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+Prior to learning Typescript, the only languages I've known was Python, C#, and most importantly, Java. I became the most comfortable with Java throughout my entire coding journey. 
 
-## What’s a smart question?
+<img width="300px" class="rounded float-start pe-4" src="../img/typescript-essay/java-image.png">
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+## First Impressions
+
+The first thing that came into mind was that Typescript was uncannily similar to Java. I'm pretty sure it has to do with the fact that their syntaxes are almost identical. The only 
 
 ## Conclusion
 
