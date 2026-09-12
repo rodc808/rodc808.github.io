@@ -22,5 +22,10 @@ The first thing that came into mind was that Typescript was uncannily similar to
 
 <!-- <img width="300px" class="rounded float-start pe-4" src="../img/typescript-essay/Typescript.svg"> -->
 
-## Conclusion
+<h1 style="color: blue;"> Expanding on Classwork </h1>
+
+Currently, I'm 3 weeks into my ICS 314 journey. I wasn't too fond of it at the start since there was an immediate workload on day 1. 
+
+<h1 style="color: blue;"> Conclusion </h1>
+
 
