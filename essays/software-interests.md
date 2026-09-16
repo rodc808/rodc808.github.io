@@ -11,7 +11,7 @@ labels:
   - Goals
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/typescript-essay/java-image.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/software-interests/istockphoto-1954422116-612x612.jpg">
 
 <h1 style="color: blue;"> When my interest began </h1>
 
