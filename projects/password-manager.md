@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/password-manager/micromouse-square.jpg
+image: img/password-manager/5321806.png
 title: "Password Manager"
 date: 2024
 published: true
