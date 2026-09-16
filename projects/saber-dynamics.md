@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/saber-dynamics/436307984_420352747453569_548699176939638907_n.jpeg
+image: img/saber-dynamics/saberdynamics-logo.png
 title: "High School Robotics Social Media Manager"
 date: 2024
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "Did social media for James Campbell High School's robotics team."
 ---
 
-<img class="img-fluid" src="../img/saber-dynamics/436307984_420352747453569_548699176939638907_n.jpeg">
+<img class="img-fluid" src="../img/saber-dynamics/saberdynamics-logo.png">
 
 <h1 style="color: blue;"> What was it like before? </h1>
 
