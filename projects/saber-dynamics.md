@@ -9,7 +9,7 @@ labels:
   - Social Media
   - Robotics
   - 
-summary: "Did social media for James Campbell High School's robotics team."
+summary: "Social media for James Campbell High School's robotics team (Saber Dynamics - FRC 8871)."
 ---
 
 <img class="img-fluid" src="../img/saber-dynamics/saberdynamics-logo.png">
