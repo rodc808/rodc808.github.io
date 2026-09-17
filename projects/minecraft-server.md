@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/minecraft-server/minecraft-server-image.png
 title: "Friend Group Minecraft Server"
 date: 2019-Present
 published: true
@@ -19,4 +19,4 @@ The first version of the Minecraft server was just a simple vanilla survival Min
 
 <h1 style="color: blue;"> Contents of the Server </h1>
 
-There is a main lobby that handles what people want to do. The gamemodes implemented is survival, creative, survival games, and hide and seek. For the hide and seek gamemode, I made a simple Minecraft datapack. This datapack tracked the players, the seekers location, a taunt feature, a random map generator, and a glow feature. The survival games gamemode is a modified datapack.
+There is a main lobby that handles what people want to do. The gamemodes implemented is survival, creative, survival games, and hide and seek. For the hide and seek gamemode, I made a simple Minecraft datapack. This datapack tracked the players, the seekers location, a taunt feature, a random map generator, and a glow feature. The survival games gamemode is a modified datapack from another creator. 
