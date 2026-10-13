@@ -29,4 +29,9 @@ labels:
 
 <!-- Paragraph 3 -->
 <h1 style="color: blue;"> My Experience with UI Frameworks (Bootstrap 5) </h1>
-<p> In my experience, I recreated a webpage from <a href="https://www.uniqlo.com/us/en/hawaii/">Uniqlo Hawaii</a> </p>
+<p> In my experience, I recreated a webpage from <a href="https://www.uniqlo.com/us/en/hawaii/">UNIQLO Hawaii</a>. I actually had an idea on how to create it since we made a navbar pretty similar to the UNIQLO Website, so I decided to recycle the formatting from one of the activities and adjust it to the specifications. </p>
+<h3> Real UNIQLO Website</h2>
+<img src="../img/ui-reflection/UNIQLO-Real.png" alt="Original UNIQLO Website">
+
+<h3> Recreation</h3>
+<img src="../img/ui-reflection/UNIQLO-Recreation.png" alt="Recreation of the UNIQLO Website">
