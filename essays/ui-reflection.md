@@ -31,10 +31,10 @@ labels:
 <h1 style="color: blue;"> My Experience with UI Frameworks (Bootstrap 5) </h1>
 <p> In my experience, I recreated a webpage from <a href="https://www.uniqlo.com/us/en/hawaii/">UNIQLO Hawaii</a>. I actually had an idea on how to create it since we made a navbar pretty similar to the UNIQLO Website, so I decided to recycle the formatting from one of the activities and adjust it to the specifications. The one thing I struggled with was overlaying the text onto the image but I figured it out. Overall the process was fun because seeing the website be almost similar to the UNIQLO website was pretty cool. The font's are a little bit off since I don't know exactly what font UNIQLO uses, but I found a similar one. </p>
 <h2> Real UNIQLO Website</h2>
-<img src="../img/ui-reflection/UNIQLO-Real.png" alt="Original UNIQLO Website" width="300">
+<img src="../img/ui-reflection/UNIQLO-Real.png" alt="Original UNIQLO Website" width="600">
 
 <h3> Recreation</h3>
-<img src="../img/ui-reflection/UNIQLO-Recreation.png" alt="Recreation of the UNIQLO Website" width="300">
+<img src="../img/ui-reflection/UNIQLO-Recreation.png" alt="Recreation of the UNIQLO Website" width="600">
 
 <!-- Conclusion -->
 <h1 style="color: blue;"> Conclusion </h1>
