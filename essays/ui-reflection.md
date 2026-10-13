@@ -24,4 +24,9 @@ labels:
 
 <!-- Paragraph 3 -->
 <h1 style="color: blue;"> UI Frameworks Learning Curve </h1>
-<p> Personally, I struggled at first with learning Bootstrap. There's a whole bunch of classes and utilities available where it was a little overwhelming and confusing to figure out what to use. For example, when creating a navbar, there's options like .navbar-expand-lg, .navbar-brand, .navbar-light, .dropdown-menu, etc. I personally have to go through every single different one and play around with it for a bit to just get a little bit more understanding. Once I get used to the formatting, I can easily edit the navbar and put what I want inside of it. Same goes for everything </p>
+<p> Personally, I struggled at first with learning Bootstrap. There's a whole bunch of classes and utilities available where it was a little overwhelming and confusing to figure out what to use. For example, when creating a navbar, there's options like .navbar-expand-lg, .navbar-brand, .navbar-light, .dropdown-menu, etc. I personally have to go through every single different one and play around with it for a bit to just get a little bit more understanding. Once I get used to the formatting, I can easily edit the navbar and put what I want inside of it. However, knowing the reason why these classes exist such as .navbar-expand having the ability to resize across different devices and screen sizes, makes you realize how useful they can be. </p>
+<p> While remembering each all the classes in your head can be complicated, learning to do so makes the time invested into it worthwhile. These classes allow for powerful customization without needing to tweak individual things with the CSS or HTML file(s).</p>
+
+<!-- Paragraph 3 -->
+<h1 style="color: blue;"> My Experience with UI Frameworks (Bootstrap 5) </h1>
+<p> In my experience, I recreated a webpage from <a href="https://www.uniqlo.com/us/en/hawaii/">Uniqlo Hawaii</a> </p>
