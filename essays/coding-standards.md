@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Coding Standards is a Language Course in Disguise"
+title: "Coding Standards are a Language Course in Disguise"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-15
 published: true
@@ -12,3 +12,4 @@ labels:
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="https://images.credly.com/images/e6eebd0c-6a17-4c06-b172-02ca9f6beb06/eslint.png">
+<h2>Test</h2>
