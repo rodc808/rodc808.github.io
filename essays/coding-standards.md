@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Coding Standards are a Language Course in Disguise"
 # All dates must be YYYY-MM-DD format!
-date: 2026-09-15
+date: 2026-10-21
 published: true
 labels:
   - Coding Standards
