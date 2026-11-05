@@ -12,4 +12,5 @@ labels:
   - ICS 314
 ---
 
-## Project: 
+## Project: Studymate
+
