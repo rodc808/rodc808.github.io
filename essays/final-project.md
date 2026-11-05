@@ -12,4 +12,4 @@ labels:
   - ICS 314
 ---
 
-## Project: Even Better ICS Advising (EBICSA)
+## Project: 
