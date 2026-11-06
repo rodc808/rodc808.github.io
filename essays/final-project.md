@@ -40,9 +40,9 @@ The site will use Next.js, React, Bootstrap 5, Prisma with PostgreSQL, and GitHu
 
 - **Landing Page:** Explains what StudyMate is with a "how it works" section, a tutorial, and sign up and login buttons.
 - **Sign Up / Profile Setup Page:** Form for UH email, major, classes, availability, study style,  GPA range (not required).
-**Find a Studymate Page:** List of suggested matches with filters for course, availability, study style, group size, and location. Swipe left or right and look at the description of the Studymate on your screen
-**My Groups Page:** Shows groups you’ve joined, upcoming sessions, and members.
-**Group / Session Page:** Details for a study session, including time, meeting spot (on campus), and a member list.
+- **Find a Studymate Page:** List of suggested matches with filters for course, availability, study style, group size, and location. Swipe left or right and look at the description of the Studymate on your screen
+- **My Groups Page:** Shows groups you’ve joined, upcoming sessions, and members.
+- **Group / Session Page:** Details for a study session, including time, meeting spot (on campus), and a member list.
 Admin Dashboard: User management, and course list editor.
 
 ## Use Case Ideas
