@@ -33,18 +33,35 @@ The site will use Next.js, React, Bootstrap 5, Prisma with PostgreSQL, and GitHu
 
 ## Roles
 
-- **Users:** 
-- **Admins:** 
+- **Users:** UH Manoa students who sign up with their UH email. The users get to build their profile (with classes, availability, study goals, and GPA) search and filter for study partners or groups, send and accept study requests, and join or create groups.
+- **Admins:** Manage the course list, remove accounts that violate rules, view usage stats.
 
 ## Mockup Page Ideas
 
-- **Landing Page:** 
+- **Landing Page:** Explains what StudyMate is with a "how it works" section, a tutorial, and sign up and login buttons.
+- **Sign Up / Profile Setup Page:** Form for UH email, major, classes, availability, study style,  GPA range (not required).
+**Find a Studymate Page:** List of suggested matches with filters for course, availability, study style, group size, and location. Swipe left or right and look at the description of the Studymate on your screen
+**My Groups Page:** Shows groups you’ve joined, upcoming sessions, and members.
+**Group / Session Page:** Details for a study session, including time, meeting spot (on campus), and a member list.
+Admin Dashboard: User management, and course list editor.
 
 ## Use Case Ideas
 
-- 
+- Student signs up with their UH email and sets up a profile with their classes and availability.
+- Student filters by a specific course and finds others who also have those courses or had.
+- Student sends a study request to a match, and the other student also has them queued in their feed.
+- Student creates a study group for an upcoming exam and sets a size limit and meeting spot.
+- Student leaves a group or cancels a session.
+- Admin reviews accounts and suspicious accounts could be deleted.
+- Admin adds a new course to the course list. 
+
 ## Beyond the Basics
 
 After implementing the basic functionality, here are ideas for more advanced features:
 
-- 
+- Calendar sync (Google Calendar) to find shared free times automatically
+- In-app chat or messaging between matched students
+- Ratings or “good study partner” badges after sessions
+- Email or push reminders for upcoming study sessions
+- A campus map showing suggested meeting spots
+- Tutor or peer mentor connections
